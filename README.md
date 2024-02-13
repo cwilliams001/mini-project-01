@@ -17,7 +17,7 @@ This is a full-stack application that allows users to add, search, and keep trac
 
 ## Local Development Setup
 
-### Option 1: Docker
+## Option 1: Docker
 1. Install Docker and Docker Compose.
 2. Clone the repository.
 3. Navigate to the root directory.
