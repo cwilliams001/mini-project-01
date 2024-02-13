@@ -7,6 +7,6 @@ sleep 2
 npx knex migrate:latest
 
 sleep 2
-npx knex seed:run
+#npx knex seed:run
 
 node index.js
